@@ -23,7 +23,7 @@ import { lengthStorage, keyStorage, getStorage, setStorage, removeStorage, clear
     getStorage("deno");
     // returns the value of the key : "fresh"
 
-    lengthStore();
+    lengthStorage();
     // returns the browser localStorage length : 1, or 0 if no key is found
 
     removeStorage("deno");
