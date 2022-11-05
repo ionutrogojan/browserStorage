@@ -7,7 +7,7 @@ The fresh `localStorage` object is a server side component that does not work wi
 ## Import
 
 ```ts
-import { lengthStorage, keyStorage, getStorage, setStorage, removeStorage, clearStorage } from "https://deno.land/x/browserstorage@v0.1.1/mod.ts";
+import { lengthStorage, keyStorage, getStorage, setStorage, removeStorage, clearStorage } from "https://deno.land/x/browserstorage@v0.1.2/mod.ts";
 ```
 <br>
 
