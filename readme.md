@@ -14,7 +14,7 @@ import { lengthStorage, keyStorage, getStorage, setStorage, removeStorage, clear
 ## Examples
 
 ```ts
-    setStore("deno", "fresh");
+    setStorage("deno", "fresh");
     // adds or updates { key: "deno" , value: "fresh" } to browser localStorage
 
     keyStorage(0);
